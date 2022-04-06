@@ -5,17 +5,17 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Me presento:
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Mi nombre es Alam Mancera, tengo 26 años.
+Estudié 4 semestres de Ingeniería en computación en la UNAM, los cuales lamento decir que no disfruté.
+Programo desde que iba en la prepa y aprendí en ese entonces con el lenguaje Pascal. 💻
+Mi primer empleo en este sector fue como programador web en una empresa de Fotografía aquí en CDMX. Y Ahí descubrí que definitivamente la programación web no es para mi 😕
+Afortunadamente encontré una pasión en enseñar programación mediante la plataforma Udemy, enseño C# desde hace 5 años ahí.
+Soy amante del cine y de los videojuegos, mi película favorita es "La La Land" y mi videojuego es "Bully: Canis Canem Edit".
+Me pueden encontrar en TW como @AlamMancera y en Udemy con mi nombre.
 
