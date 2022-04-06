@@ -7,5 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alammancera.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mis expectativas</title>
+      <link>https://alammancera.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alammancera.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>¡Hola a todos! A continuación voy a describir brevemente cómo pienso que debería ser la cultura de un profesional de software
+En primera instancia me gustaría encontrarme con personas que, aunque tengan muy bien desarrollada la habilidad logica y matematica, no solamente sean eso. Está claro que esas habilidades son fundamentales para trabajar en este rubro, pero siempre hay otras caracteristicas que son de sumo valor. Tales como:
+ Saber comunicarse con los equipos de personas que están relacionadas con el proyecto en el que está trabajando, como; diseñadores, marketing, y otros desarrolladores, etc.</description>
+    </item>
+    
   </channel>
 </rss>
